@@ -3,4 +3,14 @@ address: "EQB-qHnRrgfYjpMmPU406TvnFN6-wOY_b_bqtpxcBRkZixBw"
 symbol: "GIA"
 decimals: 9
 websites:
-  - "https://generalintuition.ai"
+  - "https://generalintuition.com"
+=======
+symbol: "GIA"
+description: "Generalintuition AI (GIA) TON jetton."
+decimals: 9
+address: "EQB-qHnRrgfYjpMmPU406TvnFN6-wOY_b_bqtpxcBRkZixBw"
+image: "https://i.postimg.cc/wvYrB5jr/2-20260727-191649-0001.png"
+websites:
+  - "https://generalintuition.com"
+social:
+  - "https://t.me/generalintuition_wallet"
